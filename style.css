@@ -27,7 +27,7 @@ nav{
     justify-content: space-around;
     align-items: center;
 
-    background-color: rgb(254, 243, 229);
+    background-color: rgb(255, 248, 238);
 }
 
 nav h1{
@@ -140,7 +140,7 @@ nav li:last-child:hover{
 .search-bar button:hover{
     cursor: pointer;
     color: black;
-    background-color: whitesmoke;
+    background-color: rgb(246, 246, 246);
     border: 2px solid black;
 }
 
